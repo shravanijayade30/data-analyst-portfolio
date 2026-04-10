@@ -73,5 +73,5 @@ Aspiring Data Analyst skilled in Python, Excel, and Power BI, with a focus on tr
 
 ## 📌 Contact
 
-* LinkedIn: ([Add your link](https://www.linkedin.com/in/shravani-jayade/))
+* LinkedIn: (https://www.linkedin.com/in/shravani-jayade/)
 * Email: (jayadeshravani30@gmail.com)
